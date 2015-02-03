@@ -12,3 +12,7 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 
 # Windows does not come with time zone data
 gem "tzinfo-data", platforms: [:mswin, :mingw]
+
+# Sass Mixins
+gem "bourbon", "~> 4.1.1"
+gem "neat", "~> 1.7.1"
