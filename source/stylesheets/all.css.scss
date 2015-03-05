@@ -4,9 +4,3 @@
 @import "neat";
 @import "modules/modules";
 
-body {
-  @include span-columns(2);
-  background: #d4d4d4 url("../images/background.png");
-  text-align: center;
-  font-family: sans-serif; }
-
